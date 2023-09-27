@@ -9,7 +9,7 @@ math: true
 
 This tutorial explains how to use $\LaTeX$ in the text editor [Sublime Text](https://www.sublimetext.com/) and how to set up code snippets to write faster. For a general introduction to $\LaTeX$​​​​​​, see e.g. [this tutorial by Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes). This setup is inspired by [this article by Gilles Castel](https://castel.dev/post/lecture-notes-1/), where a similar setup for Linux is described (using Vim as a text editor). On Windows, however, it is easier to set everything up in Sublime Text. _Remark:_ I have only tested this on Windows, but it should also work on Linux and macOS -- you just have to choose the correct PDF viewer in Step 1.
 
-<center><img src="/assets/img/2021-07-17-latex-and-sublime-text/LaTeX_Sublime_Text.png" width="100%"/></center>
+<center><img src="/assets/img/2021-07-17-latex-and-sublime-text/LaTeX_Sublime_Text.png" alt="LaTeX and Sublime Text" width="100%"/></center>
 
 **Contents:**
 
@@ -43,7 +43,7 @@ This tutorial explains how to use $\LaTeX$ in the text editor [Sublime Text](htt
 	
 	- Optional: Install the color scheme "10% Too Dull for My Tastes". Afterwards, you can select the "scotchy - 10% Too Dull [...]" color scheme under `Preferences - Color Scheme...`. This color scheme is also used in the screenshots on this page.
 	
-	<center><img src="/assets/img/2021-07-17-latex-and-sublime-text/Package_Manager.png" width="100%"/></center>
+	<center><img src="/assets/img/2021-07-17-latex-and-sublime-text/Package_Manager.png" alt="Package Manager" width="100%"/></center>
 	
 - Under `Preferences - Package Settings - LaTeXTools - Settings - User` change the line `"builder": "traditional",` to `"builder": "basic",` (including the comma at the end).
 
