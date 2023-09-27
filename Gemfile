@@ -6,6 +6,7 @@ gemspec
 
 group :test do
   # gem "html-proofer", "~> 4.4"
+  gem "nokogumbo"
   gem "html-proofer", "~> 3.16.0"
 end
 
