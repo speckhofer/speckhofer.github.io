@@ -31,6 +31,7 @@ title: CV
 
 ## Awards and Prizes
 
+- **2023:** Würdigungspreis (Recognition Award) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees
 - **2023:** Audit of Art (Austrian Music Schools final exam) in Piano
 - **2019:** Gold medal and award for _Best Jeunesse Film_ at the UNICA world championship of non-commercial independent film for my entry [_The Robbery_](https://www.youtube.com/watch?v=ktUjUAsWYfs).
 - Prizes from other national and international short film competitions are listed on [https://tspeckhofer.jimdofree.com/films/contests-and-prizes/](https://tspeckhofer.jimdofree.com/films/contests-and-prizes/)
