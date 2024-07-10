@@ -17,9 +17,12 @@ title: CV
 
 ## Teaching
 
-- **Winter 2023/24:** _Linear Algebra and Analytic Geometry I_ (exercises and tutorials, alternating), Johannes Kepler University Linz
-- **Winter 2022/23 and Summer 2023:** Grading assistant for _Linear Algebra and Analytic Geometry_, JKU Linz
-- **Winter 2021/22 and Summer 2022:** Grading assistant for _Linear Algebra and Analytic Geometry_, JKU Linz
+- **Summer 2024:** _Linear Algebra and Analytic Geometry 2_ (exercises and tutorials, alternating), Johannes Kepler University Linz
+- **Winter 2023/24:** *Linear Algebra and Analytic Geometry 1* (exercises and tutorials, alternating), Johannes Kepler University Linz
+- **Summer 2023:** Grading assistant for _Linear Algebra and Analytic Geometry_, JKU Linz
+- **Winter 2022/23:** Grading assistant for *Linear Algebra and Analytic Geometry*, JKU Linz
+- **Summer 2022:** Grading assistant for _Linear Algebra and Analytic Geometry_, JKU Linz
+- **Winter 2021/22:** Grading assistant for *Linear Algebra and Analytic Geometry*, JKU Linz
 - **Summer 2021:** Tutor and grading assistant for _Algebra for Computer Scientists_, JKU Linz
 - **Summer 2020:** Tutor and grading assistant for _Algebra for Computer Scientists_, JKU Linz
 
