@@ -6,9 +6,9 @@ title: CV
 
 ## Personal information
 
-- Name: Dipl.-Ing. Thomas Franz Speckhofer
-- Born: 2000
-- E-Mail: [thomas.speckhofer@jku.at](mailto:thomas.speckhofer@jku.at)
+- **Name:** Dipl.-Ing. Thomas Franz Speckhofer
+- **Born:** 2000
+- **E-Mail:** [thomas.speckhofer@jku.at](mailto:thomas.speckhofer@jku.at)
 
 ## Professional experience
 
@@ -38,7 +38,7 @@ title: CV
 - **2023:** Audit of Art (Austrian Music Schools final exam) in Piano
 - **2019:** Gold medal and award for _Best Jeunesse Film_ at the UNICA world championship of non-commercial independent film for my entry [_The Robbery_](https://www.youtube.com/watch?v=ktUjUAsWYfs).
 - Prizes from other national and international short film competitions are listed on [https://tspeckhofer.jimdofree.com/films/contests-and-prizes/](https://tspeckhofer.jimdofree.com/films/contests-and-prizes/)
-- **2018:** Erwin Wenzl Preis for my pre-scientific thesis on _Geometric Probability_ (part of the Austrian Matura exam)
+- **2018:** Erwin Wenzl Anerkennungspreis (Recognition Award) for my pre-scientific thesis on _Geometric Probability_ (part of the Austrian Matura exam)
 - **2018:** Dr. Hans Riegel-Fachpreis for my pre-scientific thesis on _Geometric Probability_
 - **2018:** Winner of the Upper Austrian Latin Olympiad
 - **2017:** Participation in the Middle European Mathematical Olympiad in Vilnius
