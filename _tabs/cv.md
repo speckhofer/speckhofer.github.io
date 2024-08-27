@@ -28,8 +28,8 @@ title: CV
 
 ## Education
 
-- **10/2022:** Diploma in _Mathematics in Natural Sciences_ (with distinction) at Johannes Kepler University Linz. Thesis: _Schauder Bases and the Factorization Property_ [https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880](https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880)
-- **08/2021:** Bachelor's degree in _Technical Mathematics_ (with distinction) at Johannes Kepler University Linz. Thesis: _Weyl Inequalities_
+- **10/2022:** Diploma in _Mathematics in Natural Sciences_ (with distinction) at Johannes Kepler University Linz. Thesis: _Schauder Bases and the Factorization Property_ [https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880](https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880), supervised by Priv.-Doz. Dipl.-Ing. Dr. Richard Lechner.
+- **08/2021:** Bachelor's degree in _Technical Mathematics_ (with distinction) at Johannes Kepler University Linz. Thesis: _Weyl Inequalities_, supervised by A. Univ.-Prof. Dipl.-Ing. Dr. Paul F.X. Müller.
 - **06/2018:** Matura (with distinction), Bundesgymnasium Vöcklabruck, Austria
 
 ## Awards and Prizes
