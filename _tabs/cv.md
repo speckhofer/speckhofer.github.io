@@ -1,6 +1,6 @@
 ---
 icon: fas fa-list-ul
-order: 2
+order: 3
 title: CV
 ---
 
