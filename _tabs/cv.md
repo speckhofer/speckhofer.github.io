@@ -6,10 +6,11 @@ title: CV
 
 ## Personal information
 
-- **Name:** Thomas Franz Speckhofer
+- **Full name:** Thomas Franz Speckhofer
 - **Born:** 2000
 - **Citizenship:** Austria
 - **E-Mail:** [thomas.speckhofer@jku.at](mailto:thomas.speckhofer@jku.at)
+- **Homepage:** [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Research interests
 
@@ -21,15 +22,17 @@ title: CV
 
 ## Teaching
 
-- **Summer 2024/25:** _Analysis 1_, discussion rounds ("Konversatorium"), JKU Linz
-- **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds ("Konversatorium"), JKU Linz
-- **Winter 2023/24:** _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds ("Konversatorium"), JKU Linz
-- **Summer 2023:**    _Linear Algebra and Analytic Geometry 2_, grading assistant, JKU Linz
-- **Winter 2022/23:** _Linear Algebra and Analytic Geometry 1_, grading assistant, JKU Linz
-- **Summer 2022:**    _Linear Algebra and Analytic Geometry 2_, grading assistant, JKU Linz
-- **Winter 2021/22:** _Linear Algebra and Analytic Geometry 1_, grading assistant, JKU Linz
-- **Summer 2021:**    _Algebra for Computer Scientists_, tutor and grading assistant, JKU Linz
-- **Summer 2020:**    _Algebra for Computer Scientists_, tutor and grading assistant, JKU Linz
+### Teaching Assistant at Johannes Kepler University Linz
+
+- **Summer 2024/25:** _Analysis 1_, discussion rounds
+- **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds
+- **Winter 2023/24:** _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds
+- **Summer 2023:**    _Linear Algebra and Analytic Geometry 2_, grader
+- **Winter 2022/23:** _Linear Algebra and Analytic Geometry 1_, grader
+- **Summer 2022:**    _Linear Algebra and Analytic Geometry 2_, grader
+- **Winter 2021/22:** _Linear Algebra and Analytic Geometry 1_, grader
+- **Summer 2021:**    _Algebra for Computer Scientists_, grader and leading discussion rounds
+- **Summer 2020:**    _Algebra for Computer Scientists_, grader and leading discussion rounds
 
 ## Education
 
@@ -46,12 +49,11 @@ title: CV
 ## Awards and Prizes related to mathematics
 
 - **2023:** Würdigungspreis (Recognition Award) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees
+- **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022.
 - **2018:** Erwin Wenzl Anerkennungspreis (Recognition Award) for my pre-scientific thesis on _Geometric Probability_ (part of the Austrian Matura exam)
 - **2018:** Dr. Hans Riegel-Fachpreis for my pre-scientific thesis on _Geometric Probability_ (part of the Austrian Matura exam)
 - **2017:** Participation in the Middle European Mathematical Olympiad in Vilnius
-- **2016--2018:** Prizes at Regional and National Competitions of the Austrian Mathematical Olympiad: [https://www.math.aau.at/OeMO/Ergebnisse/Person/715](https://www.math.aau.at/OeMO/Ergebnisse/Person/715)
-- **2015:** Winner of the Upper Austrian Beginners' Competition of the Austrian Mathematical Olympiad
-- **2014:** Winner of the voestalpine Mathematics Mini-Olympiad (Linz)
+- **2015--2018:** Prizes at Regional and National Competitions of the Austrian Mathematical Olympiad: [https://www.math.aau.at/OeMO/Ergebnisse/Person/715](https://www.math.aau.at/OeMO/Ergebnisse/Person/715)
 
 ## Other awards/qualifications
 

@@ -3,14 +3,14 @@ icon: fas fa-display
 order: 2
 ---
 
-## Contributed talks at conferences
+## Contributed talks
 
-- September 2024. Factorization in Haar system Hardy spaces. *Analysis Seminar Innsbruck 2024*, University of Innsbruck, Austria.
-- August 2024. Factorization in Haar system Hardy spaces. *35th International Workshop on Operator Theory and its Applications*, University of Kent, Canterbury, UK.
-- July 2024. Factorization in Haar system Hardy spaces. *Workshop in Analysis and Probability Seminar Series*, Texas A&M University, College Station, USA. [slides](https://speckhofer.github.io/assets/pdf/2024_factorization-in-haar-system-hardy-spaces_texas.pdf).
-- July 2024. Factorization in Haar system Hardy spaces. *Banach spaces for analysts*, The Mathematical Research and Conference Center of the Polish Academy of Sciences, Będlewo, Poland.
+1. September 2024. _Factorization in Haar system Hardy spaces._ Analysis Seminar Innsbruck 2024, University of Innsbruck, Austria.
+1. August 2024. _Factorization in Haar system Hardy spaces._ 35th International Workshop on Operator Theory and its Applications, University of Kent, Canterbury, UK.
+1. July 2024. _Factorization in Haar system Hardy spaces._ Workshop in Analysis and Probability Seminar Series, Texas A&M University, College Station, USA. [slides](https://speckhofer.github.io/assets/pdf/2024_factorization-in-haar-system-hardy-spaces_texas.pdf).
+1. July 2024. _Factorization in Haar system Hardy spaces._ Banach spaces for analysts, The Mathematical Research and Conference Center of the Polish Academy of Sciences, Będlewo, Poland.
 
-## Invited seminar talks
+## Seminar talks
 
-- March 2024. Factorization in Haar system Hardy spaces. Vienna University of Technology, Vienna, Austria.
-- June 2023. Factorization in Haar system Hardy spaces. Mathematical Institute of the Polish Academy of Sciences (IMPAN), Warsaw, Poland.
+1. March 2024. _Factorization in Haar system Hardy spaces._ Vienna University of Technology, Vienna, Austria.
+1. June 2023. _Factorization in Haar system Hardy spaces._ Mathematical Institute of the Polish Academy of Sciences (IMPAN), Warsaw, Poland.
