@@ -52,6 +52,7 @@ title: CV
 - **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022.
 - **2018:** Erwin Wenzl Anerkennungspreis (Recognition Award) for my pre-scientific thesis on _Geometric Probability_ (part of the Austrian Matura exam)
 - **2018:** Dr. Hans Riegel-Fachpreis for my pre-scientific thesis on _Geometric Probability_ (part of the Austrian Matura exam)
+- **2018:** Dr. Hans Riegel Specialist Prize and Erwin Wenzl Recognition Prize for my pre-scientific thesis on Geometric Probability (part of the Austrian Matura exam/highschool graduation)
 - **2017:** Participation in the Middle European Mathematical Olympiad in Vilnius
 - **2015--2018:** Prizes at Regional and National Competitions of the Austrian Mathematical Olympiad: [https://www.math.aau.at/OeMO/Ergebnisse/Person/715](https://www.math.aau.at/OeMO/Ergebnisse/Person/715)
 
