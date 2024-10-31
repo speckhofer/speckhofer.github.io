@@ -23,9 +23,8 @@ title: CV
 ## Education
 
 - **11/2022--:** Doctorate in mathematics, JKU Linz (ongoing). Advisors: Priv.-Doz. Dipl.-Ing. Dr. Richard Lechner and A. Univ.-Prof. Dipl.-Ing. Dr. Paul F.X. Müller
-- **10/2022:** Diploma in _Mathematics in Natural Sciences_ (with distinction) at Johannes Kepler University Linz. Thesis: _Schauder Bases and the Factorization Property_ [https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880](https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880), supervised by Priv.-Doz. Dipl.-Ing. Dr. Richard Lechner.
-- **08/2021:** Bachelor's degree in _Technical Mathematics_ (with distinction) at Johannes Kepler University Linz. Thesis: _Weyl Inequalities_, supervised by A. Univ.-Prof. Dipl.-Ing. Dr. Paul F.X. Müller.
-- **06/2018:** Matura (with distinction), Bundesgymnasium Vöcklabruck, Austria
+- **08/2021--10/2022:** Diploma in _Mathematics in Natural Sciences_ (with distinction) at Johannes Kepler University Linz. Thesis: _Schauder Bases and the Factorization Property_ [https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880](https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880), supervised by Priv.-Doz. Dipl.-Ing. Dr. Richard Lechner.
+- **10/2018--08/2021:** Bachelor's degree in _Technical Mathematics_ (with distinction) at Johannes Kepler University Linz. Thesis: _Weyl Inequalities_, supervised by A. Univ.-Prof. Dipl.-Ing. Dr. Paul F.X. Müller.
 
 ## Teaching Experience
 
