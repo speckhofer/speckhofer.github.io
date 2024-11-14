@@ -37,8 +37,8 @@ title: CV
 - **Winter 2022/23:** _Linear Algebra and Analytic Geometry 1_, grader
 - **Summer 2022:**    _Linear Algebra and Analytic Geometry 2_, grader
 - **Winter 2021/22:** _Linear Algebra and Analytic Geometry 1_, grader
-- **Summer 2021:**    _Algebra for Computer Scientists_, grader and leading discussion rounds
-- **Summer 2020:**    _Algebra for Computer Scientists_, grader and leading discussion rounds
+- **Summer 2021:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds
+- **Summer 2020:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds
 
 ## Academic Outreach and Services
 
@@ -47,7 +47,7 @@ title: CV
 
 ## Awards
 
-- **2023:** Würdigungspreis (Recognition Award) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees
+- **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees
 - **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022.
 - **2018:** Dr. Hans Riegel Specialist Prize and Erwin Wenzl Recognition Prize for my pre-scientific thesis on Geometric Probability (part of the Austrian Matura exam/highschool graduation)
 - **2017:** Participation in the Middle European Mathematical Olympiad in Vilnius
@@ -66,4 +66,4 @@ title: CV
 - German (native)
 - English (full professional working proficiency)
 - Italian (fluent)
-- Latin
+- Latin (proficient)
