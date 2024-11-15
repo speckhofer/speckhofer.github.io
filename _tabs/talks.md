@@ -12,6 +12,6 @@ order: 2
 
 ## Seminar talks
 
+1. November 2024. _Dimension dependence of factorization problems._ Texas A&M University, College Station, USA (online).
 1. March 2024. _Factorization in Haar system Hardy spaces._ Vienna University of Technology, Vienna, Austria.
 1. June 2023. _Factorization in Haar system Hardy spaces._ Mathematical Institute of the Polish Academy of Sciences (IMPAN), Warsaw, Poland.
-1. November 2024. _Dimension dependence of factorization problems._ Texas A&M University, College Station, USA (online).
