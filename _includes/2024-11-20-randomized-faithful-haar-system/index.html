@@ -57,6 +57,7 @@
     </label>
 
     <script>
+        console.log("check 1");
         const m = 2; // Number of dyadic trees
         const numLevels = 3; // Number of levels in each tree
         const imgBlue0 = '../../assets/img/2024-11-20-randomized-faithful-haar-system/blue0.png';
@@ -68,7 +69,9 @@
 
         const imgSrcWhite = '../../assets/img/2024-11-20-randomized-faithful-haar-system/white.png';
         const imgSrcBg = '../../assets/img/2024-11-20-randomized-faithful-haar-system/bg.png';
-
+        
+        console.log("check 2");
+        
         let fullRandomization = false;
 
         // Initialize theta and images as tree structures
@@ -80,12 +83,15 @@
             }
             return tree;
         });
+        
+        console.log("check 3");
+
 
         const imagesTree = Array.from({ length: m }, () => []); // Store images in a tree structure
 
         let counter = -1;
 
-
+        console.log("check 4");
         // Initial draw of m dyadic trees
         for (let i = 0; i < m; i++) {
             console.log("initial draw");
