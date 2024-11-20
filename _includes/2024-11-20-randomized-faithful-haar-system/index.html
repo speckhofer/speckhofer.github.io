@@ -83,6 +83,19 @@
 
         const imagesTree = Array.from({ length: m }, () => []); // Store images in a tree structure
 
+        let counter = -1;
+
+
+        // Initial draw of m dyadic trees
+        for (let i = 0; i < m; i++) {
+            console.log("initial draw");
+            createDyadicTree(i);
+        }
+
+        let intervalId = null;
+        
+        
+
         function createDyadicTree(treeIndex) {
             let treeContainer = document.createElement('div');
             treeContainer.classList.add('tree-container');
@@ -193,7 +206,6 @@
             }
         }
 
-        let counter = -1;
 
         function randomizeSigns() {
             counter++;
@@ -217,14 +229,6 @@
             }
             updateAllImages(treeIndex);
         }
-
-        // Initial draw of m dyadic trees
-        for (let i = 0; i < m; i++) {
-            console.log("initial draw");
-            createDyadicTree(i);
-        }
-
-        let intervalId = null;
 
         // Function to start or stop the timer
         function toggleRandomizer() {
