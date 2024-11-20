@@ -62,28 +62,28 @@
         var mblablatest = 2; // Number of dyadic trees
         console.log("check m2");
         console.log(window.mblablatest);
-        const numLevels = 3; // Number of levels in each tree
+        var numLevels = 3; // Number of levels in each tree
         console.log("check 1a");
-        const imgBlue0 = '/assets/img/2024-11-20-randomized-faithful-haar-system/blue0.png';
+        var imgBlue0 = '/assets/img/2024-11-20-randomized-faithful-haar-system/blue0.png';
         console.log("check 1b");
-        const imgBlue1 = '/assets/img/2024-11-20-randomized-faithful-haar-system/blue1.png';
+        var imgBlue1 = '/assets/img/2024-11-20-randomized-faithful-haar-system/blue1.png';
         console.log("check 1c");
-        const imgBlue2 = '/assets/img/2024-11-20-randomized-faithful-haar-system/blue2.png';
+        var imgBlue2 = '/assets/img/2024-11-20-randomized-faithful-haar-system/blue2.png';
         console.log("check 1d");
-        const imgRed0 = '/assets/img/2024-11-20-randomized-faithful-haar-system/red0.png';
+        var imgRed0 = '/assets/img/2024-11-20-randomized-faithful-haar-system/red0.png';
         console.log("check 1e");
-        const imgRed1 = '/assets/img/2024-11-20-randomized-faithful-haar-system/red1.png';
+        var imgRed1 = '/assets/img/2024-11-20-randomized-faithful-haar-system/red1.png';
         console.log("check 1f");
-        const imgRed2 = '/assets/img/2024-11-20-randomized-faithful-haar-system/red2.png';
+        var imgRed2 = '/assets/img/2024-11-20-randomized-faithful-haar-system/red2.png';
         console.log("check 1g");
 
-        const imgSrcWhite = '/assets/img/2024-11-20-randomized-faithful-haar-system/white.png';
+        var imgSrcWhite = '/assets/img/2024-11-20-randomized-faithful-haar-system/white.png';
         console.log("check 1h");
-        const imgSrcBg = '/assets/img/2024-11-20-randomized-faithful-haar-system/bg.png';
+        var imgSrcBg = '/assets/img/2024-11-20-randomized-faithful-haar-system/bg.png';
         
         console.log("check 2");
         
-        let fullRandomization = false;
+        var fullRandomization = false;
 
         // Initialize theta and images as tree structures
         const theta = Array.from({ length: m }, () => {
@@ -98,9 +98,9 @@
         console.log("check 3");
 
 
-        const imagesTree = Array.from({ length: m }, () => []); // Store images in a tree structure
+        var imagesTree = Array.from({ length: m }, () => []); // Store images in a tree structure
 
-        let counter = -1;
+        var counter = -1;
 
         console.log("check 4");
         // Initial draw of m dyadic trees
@@ -109,7 +109,7 @@
             createDyadicTree(i);
         }
 
-        let intervalId = null;
+        var intervalId = null;
         
         
 
