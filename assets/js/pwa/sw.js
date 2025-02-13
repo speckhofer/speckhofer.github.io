@@ -4,6 +4,21 @@ permalink: '/sw.js'
 # PWA service worker
 ---
 
+self.addEventListener('install', function(e) {
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', function(e) {
+  self.registration.unregister()
+    .then(function() {
+      return self.clients.matchAll();
+    })
+    .then(function(clients) {
+      clients.forEach(client => client.navigate(client.url))
+    });
+});
+
+/*
 self.importScripts('{{ "/assets/js/data/swcache.js" | relative_url }}');
 
 const cacheName = 'chirpy-{{ "now" | date: "%s" }}';
@@ -73,17 +88,17 @@ self.addEventListener('fetch', (event) => {
         ) {
           return response;
         }
-
+*/
         /* see: <https://developers.google.com/web/fundamentals/primers/service-workers#cache_and_return_requests> */
-        let responseToCache = response.clone();
+//        let responseToCache = response.clone();
 
-        caches.open(cacheName).then((cache) => {
+//        caches.open(cacheName).then((cache) => {
           /* console.log('[sw] Caching new resource: ' + event.request.url); */
-          cache.put(event.request, responseToCache);
-        });
+//          cache.put(event.request, responseToCache);
+//        });
 
-        return response;
-      });
-    })
-  );
-});
+//        return response;
+//      });
+//    })
+//  );
+//});
