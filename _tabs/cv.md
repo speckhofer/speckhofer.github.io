@@ -30,7 +30,8 @@ title: CV
 
 **Teaching Assistant at Johannes Kepler University Linz**
 
-- **Summer 2024/25:** _Analysis 1_, discussion rounds
+- **Summer 2025:**    _Analysis 2_, discussion rounds
+- **Winter 2024/25:** _Analysis 1_, discussion rounds
 - **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds
 - **Winter 2023/24:** _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds
 - **Summer 2023:**    _Linear Algebra and Analytic Geometry 2_, grader
