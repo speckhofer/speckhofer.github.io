@@ -37,6 +37,12 @@ title: CV
 - Advisor: Paul F.X. Müller
 - Thesis: _Weyl Inequalities_
 
+## Publications
+- See [PUBLICATIONS](https://speckhofer.github.io/publications/)
+
+## Talks
+- See [TALKS](https://speckhofer.github.io/talks/)
+
 ## Teaching Experience
 
 **Teaching Assistant at Johannes Kepler University Linz**
