@@ -14,15 +14,17 @@ title: CV
 
 ## Research Interests
 
-- Banach space theory: factorization of operators; structure, geometry and local theory of Banach spaces 
+- Banach space theory: factorization of operators; structure, geometry and local theory of Banach spaces
+- Computer algebra: D-algebraic functions
 
 ## Professional Experience
 
-- **11/2021--:** Scientific project member, Institute of Analysis, Johannes Kepler University Linz, Project FWFI5231000 "Nonreflexive Function Spaces: Fourier v. Martingale Approach"
+- **04/2025--:** Scientific project member, Institute for Algebra, Johannes Kepler University Linz, FWF project PAT9952223 "Algorithms for D-Algebraic Functions"
+- **11/2021--03/2025:** Scientific project member, Institute of Analysis, Johannes Kepler University Linz, FWF project I5231000 "Nonreflexive Function Spaces: Fourier v. Martingale Approach"
 
 ## Education
 
-**11/2022--03/2025:** Ph.D. in Mathematics
+**11/2022--03/2025:** Ph.D. in Mathematics (with distinction)
 - Johannes Kepler University Linz
 - Advisor: Richard Lechner, co-advisor: Paul F.X. Müller
 - Thesis: Factorization of operators on Banach spaces
