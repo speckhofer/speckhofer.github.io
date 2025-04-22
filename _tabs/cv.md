@@ -27,12 +27,12 @@ title: CV
 **11/2022--03/2025:** Ph.D. in Mathematics (with distinction)
 - Johannes Kepler University Linz
 - Advisor: Richard Lechner, co-advisor: Paul F.X. Müller
-- Thesis: Factorization of operators on Banach spaces
+- Thesis: [_Factorization of operators on Banach spaces_](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-86476)
 
 **08/2021--10/2022:** Diploma in _Mathematics in Natural Sciences_ (with distinction)
 - Johannes Kepler University Linz
 - Advisor: Richard Lechner
-- Thesis: _Schauder Bases and the Factorization Property_ [https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880](https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880)
+- Thesis: [_Schauder Bases and the Factorization Property_](https://digital.obvsg.at/urn/urn:nbn:at:at-ubl:1-54880)
 
 **10/2018--08/2021:** Bachelor's degree in _Technical Mathematics_ (with distinction)
 - Johannes Kepler University Linz
