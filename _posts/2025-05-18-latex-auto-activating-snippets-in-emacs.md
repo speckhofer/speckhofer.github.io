@@ -153,9 +153,9 @@ In order to install this setup, proceed as follows:
 1. To edit the snippets, you can modify the file `laas.el` or change the lines which you have added to `config.el`.
 
 
-## Snippets
+## Snippets list
 
-Here you can find an overview of all snippets.
+Here you can find an overview of all snippets which are available after setting everything up as described above.
 
 | Snippet    | Expands to                                           | Remark                                                                                                                                                                                              |
 | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
