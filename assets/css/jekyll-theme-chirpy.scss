@@ -4,3 +4,11 @@
 @import 'main';
 
 /* append your custom style below */
+
+%table-cell {
+  white-space: normal;
+}
+
+code.highlighter-rouge {
+  word-break: normal;
+}
