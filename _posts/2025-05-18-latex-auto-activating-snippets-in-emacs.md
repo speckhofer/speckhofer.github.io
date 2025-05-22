@@ -19,7 +19,7 @@ This page contains an overview of my $\LaTeX$ setup in Emacs. It enables one to 
 
 ## Overview and usage
 
-Here are some examples of the most useful snippets which are replaced automatically while typing:
+As explained above, the main purpose of this setup is that it provides using auto-activating snippets to speed up and simplify typing $\LaTeX$ code. For a detailed expanation on what auto-activating snippets are and why they are useful, I recommend reading the aforementioned [article by Gilles Castel](https://castel.dev/post/lecture-notes-1/). Here are some examples of the most useful snippets which are triggered automatically while typing in this setup:
 
 - `mk` is replaced by `$$` (math mode), and the cursor is placed inbetween the dollar signs.
 
