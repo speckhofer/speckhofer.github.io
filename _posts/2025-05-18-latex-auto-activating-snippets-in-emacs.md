@@ -50,8 +50,9 @@ As explained above, the main purpose of this setup is that it provides using aut
 - Automatic subscripts: `x0` is replaced by `x_0`, `a10` by `a_{10}`, `f_` by `f_{}`. For some letters (such as `n`), there are snippets like `xnn`, which is replaced by `x_n`.
 
 A complete list of all snippets can be found below. Moreover, these snippets can be edited in the file [laas.el](/assets/files/2025-05-18-latex-auto-activating-snippets-in-emacs/laas.el).
+Apart from these snippets, the CDLaTeX package is used for some additional autocompletion functionality, and in particular for its `tab` command: By pressing the `tab` key, you can, for example, navigate between the curly brackets in `\frac{}{}` and exit the brackets after typing the denominator. This does not only work immediately after expanding the `//` snippet (while the snippet is still "active"), but anywhere in the text, even after writing something else and putting the cursor back in `\frac{}{}`.
 
-Thus, for example, you can press the following key sequence:
+As an example, you can press the following key sequence:
 ```
 exp(x) = sum_n=0[tab]tdoo[tab] //xtdn[tab]n!
 ```
@@ -66,7 +67,7 @@ AA..e>0EEn0innNNAAn>=n0: normxnn-x[tab]<..e
 ```
 which results in the following LaTeX code:
 ```latex
-\forall \varepsilon > 0 \exists n_0\in \mathbb{N}\forall n\geq n_0: \| x_n - x \|<\varepsilon
+\forall \varepsilon>0\exists n_0\in \mathbb{N}\forall n\ge n_0: \|x_n-x\|<\varepsilon
 ```
 
 Clearly, using these snippets has the potential of saving quite some time, and arguably, it is also much more convenient than typing all the backslashes which are needed when typing the code manually.
