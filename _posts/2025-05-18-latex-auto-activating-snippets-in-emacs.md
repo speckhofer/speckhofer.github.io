@@ -58,7 +58,7 @@ exp(x) = sum_n=0[tab]tdoo[tab] //xtdn[tab]n!
 (where `[tab]` stands for the `tab` key), and without pressing any other keys to activate the snippets, this is automatically replaced by the following LaTeX code:
 
 ```latex
-\exp(x) = \sum_{n=1}^{\infty} \frac{x^{n}}{n!}
+\exp(x) = \sum_{n=0}^{\infty} \frac{x^n}{n!}
 ```
 Similarly, you can press the following key sequence:
 ```
