@@ -27,7 +27,7 @@ title: CV
 **11/2022--03/2025:** Ph.D. in Mathematics (with distinction)
 - Johannes Kepler University Linz
 - Advisor: Richard Lechner, co-advisor: Paul F.X. Müller
-- Thesis: [_Factorization of operators on Banach spaces_](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-86476)
+- Thesis: [_Factorization of Operators on Banach Spaces_](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-86476)
 
 **08/2021--10/2022:** Diploma in _Mathematics in Natural Sciences_ (with distinction)
 - Johannes Kepler University Linz
