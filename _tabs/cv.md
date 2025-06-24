@@ -67,6 +67,7 @@ title: CV
 
 ## Awards
 
+- **2025:** JKU Young Researchers' Award (for my PhD thesis)
 - **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees
 - **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022.
 - **2018:** Dr. Hans Riegel Specialist Prize and Erwin Wenzl Recognition Prize for my pre-scientific thesis on Geometric Probability (part of the Austrian Matura exam/highschool graduation)
