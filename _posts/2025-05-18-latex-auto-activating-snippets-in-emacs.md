@@ -49,8 +49,7 @@ As explained above, the main purpose of this setup is that it provides using aut
 
 - Automatic subscripts: `x0` is replaced by `x_0`, `a10` by `a_{10}`, `f_` by `f_{}`. For some letters (such as `n`), there are snippets like `xnn`, which is replaced by `x_n`.
 
-Apart from `km` and `dm`, the above snippets are only triggered in math environments. A complete list of all snippets can be found below. Moreover, snippets can be added or modified in the file laas.el (the full installation process is explained below).
-As an example, you can press the following key sequence:
+Apart from `km` and `dm`, the above snippets are only triggered in math environments. A complete list of all snippets can be found below. As an example, you can now press the following key sequence:
 ```
 exp(x) = sum_n=0[tab]tdoo[tab] //xtdn[tab]n!
 ```
