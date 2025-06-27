@@ -7,7 +7,7 @@ typora-root-url: ".."
 math: true
 ---
 
-This page contains an overview of my $\LaTeX$ setup in Emacs. It enables one to write LaTeX code in a very convenient and fast way (sufficiently fast to take notes in real time during lectures). This is achieved by using auto-expanding snippets. In order to expand such a snippet, it is not necessary to press an extra key such as tab or enter---instead, it gets triggered immediately after typing a specific key sequence, without interrupting the flow of typing. The setup is inspired by [this article by Gilles Castel](https://castel.dev/post/lecture-notes-1/), where an analogous setup for Vim is described. It is based on the [laas](https://github.com/emacsmirror/laas) and [CDLaTeX](https://github.com/cdominik/cdlatex) packages, with some modifications and lots of additional snippets.
+This page contains an overview of my $\LaTeX$ setup in Emacs. It enables one to write LaTeX code in a very convenient and fast way (sufficiently fast to take notes in real time during lectures). This is achieved by using auto-expanding snippets. In order to expand such a snippet, it is not necessary to press an extra key such as tab or enter---instead, it gets triggered immediately after typing a specific key sequence, without interrupting the flow of typing. The setup is inspired by [this article by Gilles Castel](https://castel.dev/post/lecture-notes-1/), where an analogous setup for Vim is described. My steup uses the [laas](https://github.com/emacsmirror/laas) and [CDLaTeX](https://github.com/cdominik/cdlatex) packages, with some modifications and lots of additional snippets.
 
 <center><img src="/assets/img/2025-05-18-latex-auto-activating-snippets-in-emacs/latex-auto-activating-snippets-in-emacs.png" alt="LaTeX auto activating snippets in Emacs" width="100%"/></center>
 
@@ -19,7 +19,7 @@ This page contains an overview of my $\LaTeX$ setup in Emacs. It enables one to 
 
 ## Overview and usage
 
-As explained above, the main purpose of this setup is that it provides using auto-activating snippets to speed up and simplify typing $\LaTeX$ code. For a detailed expanation on what auto-activating snippets are and why they are useful, I recommend reading the aforementioned [article by Gilles Castel](https://castel.dev/post/lecture-notes-1/). Here are some examples of the most useful snippets which are triggered automatically while typing in this setup:
+As explained above, the main purpose of this setup is that it provides using auto-activating snippets to speed up and simplify typing $\LaTeX$ code. For a detailed expanation on what auto-activating snippets are and why they are useful, I recommend reading the aforementioned [article by Gilles Castel](https://castel.dev/post/lecture-notes-1/). Here are some examples of the most useful snippets which are triggered automatically while typing in this setup when working in a .tex file:
 
 - `km` ("math mode") is replaced by `$$`, and the cursor is placed inbetween the dollar signs.
 
@@ -49,9 +49,7 @@ As explained above, the main purpose of this setup is that it provides using aut
 
 - Automatic subscripts: `x0` is replaced by `x_0`, `a10` by `a_{10}`, `f_` by `f_{}`. For some letters (such as `n`), there are snippets like `xnn`, which is replaced by `x_n`.
 
-A complete list of all snippets can be found below. Moreover, these snippets can be edited in the file [laas.el](/assets/files/2025-05-18-latex-auto-activating-snippets-in-emacs/laas.el).
-Apart from these snippets, the CDLaTeX package is used for some additional autocompletion functionality, and in particular for its `tab` command: By pressing the `tab` key, you can, for example, navigate between the curly brackets in `\frac{}{}` and exit the brackets after typing the denominator. This does not only work immediately after expanding the `//` snippet (while the snippet is still "active"), but anywhere in the text, even after writing something else and putting the cursor back in `\frac{}{}`.
-
+Apart from `km` and `dm`, the above snippets are only triggered in math environments. A complete list of all snippets can be found below. Moreover, snippets can be added or modified in the file laas.el (the full installation process is explained below).
 As an example, you can press the following key sequence:
 ```
 exp(x) = sum_n=0[tab]tdoo[tab] //xtdn[tab]n!
@@ -70,14 +68,15 @@ which results in the following LaTeX code:
 \forall \varepsilon>0\exists n_0\in \mathbb{N}\forall n\ge n_0: \|x_n-x\|<\varepsilon
 ```
 
-Clearly, using these snippets has the potential of saving quite some time, and arguably, it is also much more convenient than typing all the backslashes which are needed when typing the code manually.
+Clearly, using these snippets has the potential of saving quite some time, and arguably, it is also much more convenient than typing all the backslashes which are needed when typing the code manually, especially on a German keyboard.
 
+In addition to the laas package, my setup uses the CDLaTeX package for some additional autocompletion functionality, and in particular for its `tab` command: By pressing the `tab` key, you can, for example, navigate between the curly brackets in `\frac{}{}` and exit the brackets after typing the denominator. This does not only work immediately after expanding the `//` snippet (while the snippet is still "active"), but anytime and anywhere in the file, even after writing somewhere else and putting the cursor back in the first pair of parentheses in `\frac{}{}`, you can press `tab` to jump into the next pair of parentheses.
 
 ## Installation
 
 In order to install this setup, proceed as follows:
 
-1. Install Emacs. I am using [Doom Emacs](https://github.com/doomemacs/doomemacs) and using the "Evil" mode for Vim-like navigation, but the setup should work analogously in other Emacs configurations.
+1. Install Emacs. I am using [Doom Emacs](https://github.com/doomemacs/doomemacs) with the "Evil" mode for Vim-like navigation, but the setup should work analogously in other Emacs configurations.
 
 1. Set up $\LaTeX$ support in Emacs, e.g., by uncommenting the `latex` entry in your `init.el` file in Doom Emacs.
 
@@ -87,9 +86,9 @@ In order to install this setup, proceed as follows:
            +cdlatex)
    ```
 
-1. Download the file [laas.el](/assets/files/2025-05-18-latex-auto-activating-snippets-in-emacs/laas.el) and put it into the directory `~/.emacs.d/lisp/` (create it if it doesn't exists).
+1. Install the [laas](https://github.com/emacsmirror/laas) package: You can download my modified file [laas.el](/assets/files/2025-05-18-latex-auto-activating-snippets-in-emacs/laas.el) and put it into the directory `~/.emacs.d/lisp/` (create it if it doesn't exist). This file already contains all my additional snippets, which are listed below. I have also made some other small modifications (such as disabling the built-in fraction snippet, which I am not using)--search the file for `EDIT` to see my changes.
 
-1. Add the following code to your `config.el` file. The first lines are important if you want to use `jk` and `kl` as your evil-escape-key-sequence. Usually, this would interfere with snippets containing the letter `k` (due to some small delay), but using the key-chord package fixes this issue. Next, the packages CDLaTeX and aas ("Auto Activating Snippets") are loaded, and some snippets are added to the aas package. These are triggered at any point in text, not only in math modes. Finally, the file `laas.el` is loaded, containing those LaTeX snippets which are only triggered in math environments.
+1. Add the following code to your Emacs configuration file (e.g., `config.el` in Doom Emacs). The first lines are important if you want to use `jk` and `kl` as your evil-escape-key-sequence. Usually, this would interfere with snippets containing the letter `k` (due to some small delay), but using the key-chord package fixes this issue. Next, the packages CDLaTeX and aas ("Auto Activating Snippets") are loaded, and some snippets are added to the aas package. These are triggered at any point in text, not only in math environments. Finally, the file `laas.el` is loaded, containing those LaTeX snippets which are only triggered in math environments.
    ```elisp
    (require 'key-chord)
    (key-chord-mode 1)
@@ -149,9 +148,9 @@ In order to install this setup, proceed as follows:
                (yas-expand-snippet "\\int_{$1}^{$2} $0"))
    ```
   
-1. Execute the command `doom/reload` and restart Emacs.
+1. Execute the command `doom/reload` (or an equivalent command for your Emacs configuration) and restart Emacs.
 
-1. To edit the snippets, you can modify the file `laas.el` or change the lines which you have added to `config.el`.
+1. To edit the snippets, you can modify the file `laas.el` and change the lines which you have added to `config.el`.
 
 
 ## Snippets list
