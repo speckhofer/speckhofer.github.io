@@ -19,7 +19,8 @@ title: CV
 
 ## Professional Experience
 
-- **04/2025--:** Scientific project member, Institute for Algebra, Johannes Kepler University Linz, FWF project PAT9952223 "Algorithms for D-Algebraic Functions"
+- **07/2025--:** Postdoctoral Visitor, Department of Mathematics and Statistics, York University, Toronto
+- **04/2025--06/2025:** Scientific project member, Institute for Algebra, Johannes Kepler University Linz, FWF project PAT9952223 "Algorithms for D-Algebraic Functions"
 - **11/2021--03/2025:** Scientific project member, Institute of Analysis, Johannes Kepler University Linz, FWF project I5231000 "Nonreflexive Function Spaces: Fourier v. Martingale Approach"
 
 ## Education
