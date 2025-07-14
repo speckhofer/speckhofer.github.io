@@ -9,7 +9,7 @@ title: CV
 - **Full name:** Thomas Franz Speckhofer
 - **Born:** 2000
 - **Citizenship:** Austria
-- **E-Mail:** [thomas.speckhofer@jku.at](mailto:thomas.speckhofer@jku.at)
+- **E-Mail:** [tspeck@yorku.ca](mailto:tspeck@yorku.ca)
 - **Homepage:** [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Research Interests
