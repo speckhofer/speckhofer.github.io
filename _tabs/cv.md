@@ -47,19 +47,17 @@ title: CV
 - See [TALKS](https://speckhofer.github.io/talks/)
 
 ## Teaching Experience
-
-**Teaching Assistant at Johannes Kepler University Linz**
-
-- **Summer 2025:**    _Analysis 2_, discussion rounds
-- **Winter 2024/25:** _Analysis 1_, discussion rounds
-- **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds
-- **Winter 2023/24:** _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds
-- **Summer 2023:**    _Linear Algebra and Analytic Geometry 2_, grader
-- **Winter 2022/23:** _Linear Algebra and Analytic Geometry 1_, grader
-- **Summer 2022:**    _Linear Algebra and Analytic Geometry 2_, grader
-- **Winter 2021/22:** _Linear Algebra and Analytic Geometry 1_, grader
-- **Summer 2021:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds
-- **Summer 2020:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds
+- **Fall 2025:**      _Differential Calculus with Applications_, instructor (York University)
+- **Summer 2025:**    _Analysis 2_, discussion rounds (JKU)
+- **Winter 2024/25:** _Analysis 1_, discussion rounds (JKU)
+- **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds (JKU)
+- **Winter 2023/24:** _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds (JKU)
+- **Summer 2023:**    _Linear Algebra and Analytic Geometry 2_, grader (JKU)
+- **Winter 2022/23:** _Linear Algebra and Analytic Geometry 1_, grader (JKU)
+- **Summer 2022:**    _Linear Algebra and Analytic Geometry 2_, grader (JKU)
+- **Winter 2021/22:** _Linear Algebra and Analytic Geometry 1_, grader (JKU)
+- **Summer 2021:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds (JKU)
+- **Summer 2020:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds (JKU)
 
 ## Academic Outreach and Services
 
