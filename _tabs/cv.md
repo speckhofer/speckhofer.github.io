@@ -47,7 +47,7 @@ title: CV
 - See [TALKS](https://speckhofer.github.io/talks/)
 
 ## Teaching Experience
-- **Fall 2025:**      _Differential Calculus with Applications_, instructor (York University)
+- **Fall 2025:**      _Differential Calculus with Applications_, instructor (York University, ~140 students)
 - **Summer 2025:**    _Analysis 2_, discussion rounds (JKU)
 - **Winter 2024/25:** _Analysis 1_, discussion rounds (JKU)
 - **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds (JKU)
