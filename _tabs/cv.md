@@ -13,14 +13,10 @@ title: CV
 
 ## Contact Information
 
-Department of Mathematics and Statistics
-
-York University
-
-4700 Keele Street
-
-Toronto, ON M3J 1P3
-
+Department of Mathematics and Statistics\
+York University\
+4700 Keele Street\
+Toronto, ON M3J 1P3\
 Canada
 
 Email: [tspeck@yorku.ca](mailto:tspeck@yorku.ca)
@@ -81,10 +77,10 @@ Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Awards
 
-- **2025:** York-Fields Postdoctoral Fellowship (awarded by York University, CAD&nbsp;6,250)
-- **2025:** JKU Young Researchers' Award (for my PhD thesis, endowed with €&nbsp;600)
-- **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees (endowed with €&nbsp;3,000)
-- **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022, endowed with €&nbsp;750–1,500 per year.
+- **2025:** York-Fields Postdoctoral Fellowship (awarded by York University, CAD 6,250)
+- **2025:** JKU Young Researchers' Award (for my PhD thesis, endowed with € 600)
+- **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees (endowed with € 3,000)
+- **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022, endowed with € 750–1,500 per year.
 - **2018:** Dr. Hans Riegel Specialist Prize and Erwin Wenzl Recognition Prize for my pre-scientific thesis on Geometric Probability (part of the Austrian Matura exam/highschool graduation)
 - **2015--2018:** Prizes at Regional and National Competitions of the Austrian Mathematical Olympiad: [https://www.math.aau.at/OeMO/Ergebnisse/Person/715](https://www.math.aau.at/OeMO/Ergebnisse/Person/715); participation in the Middle European Mathematical Olympiad in Vilnius.
 
