@@ -7,7 +7,7 @@ typora-root-url: ".."
 math: true
 ---
 
-This is an interactive visualization of the randomized faithful Haar system constructed in my article **Dimension dependence of factorization problems: Haar system Hardy spaces** (_Studia Math._, to appear; [pdf](https://arxiv.org/pdf/2407.05187.pdf), see also [arXiv:2407.05187](https://arxiv.org/abs/2407.05187)). Click [here](/assets/img/randomized-faithful-haar-system){:target="_blank"} to open in a new tab.
+This is an interactive visualization of the randomized faithful Haar system constructed in my article [**Dimension dependence of factorization problems: Haar system Hardy spaces.**](/assets/pdf/publications/2025_Speckhofer_Dimension-dependence-of-factorization-problems-Haar-system-Hardy-spaces.pdf) _Studia Math._ **281** (2025), no. 2, 171-198. See also [arXiv:2407.05187](https://arxiv.org/abs/2407.05187), [doi](https://doi.org/10.4064/sm240706-24-11). Click [here](/assets/img/randomized-faithful-haar-system){:target="_blank"} to open in a new tab.
 
 <style>
      #trees-container {
