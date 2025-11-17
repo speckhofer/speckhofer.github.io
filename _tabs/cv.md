@@ -20,7 +20,7 @@ title: CV
 ## Professional Experience
 
 - **07/2025--:** Postdoctoral Visitor, Department of Mathematics and Statistics, York University, Toronto
-- **04/2025--06/2025:** Scientific project member, Institute for Algebra, Johannes Kepler University Linz, FWF project PAT9952223 "Algorithms for D-Algebraic Functions"
+- **04/2025--06/2025:** Scientific project member, Institute for Algebra, Johannes Kepler University Linz, FWF project 10.55776/PAT9952223 "Algorithms for D-Algebraic Functions"
 - **11/2021--03/2025:** Scientific project member, Institute of Analysis, Johannes Kepler University Linz, FWF project I5231000 "Nonreflexive Function Spaces: Fourier v. Martingale Approach"
 
 ## Education
@@ -47,17 +47,18 @@ title: CV
 - See [TALKS](https://speckhofer.github.io/talks/)
 
 ## Teaching Experience
-- **Fall 2025:**      _Differential Calculus with Applications_, instructor (York University, ~140 students)
-- **Summer 2025:**    _Analysis 2_, discussion rounds (JKU)
-- **Winter 2024/25:** _Analysis 1_, discussion rounds (JKU)
-- **Summer 2024:**    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds (JKU)
-- **Winter 2023/24:** _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds (JKU)
-- **Summer 2023:**    _Linear Algebra and Analytic Geometry 2_, grader (JKU)
-- **Winter 2022/23:** _Linear Algebra and Analytic Geometry 1_, grader (JKU)
-- **Summer 2022:**    _Linear Algebra and Analytic Geometry 2_, grader (JKU)
-- **Winter 2021/22:** _Linear Algebra and Analytic Geometry 1_, grader (JKU)
-- **Summer 2021:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds (JKU)
-- **Summer 2020:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds (JKU)
+
+**Instructor, York University**
+- Fall 2025:      _Differential Calculus with Applications_, ~140 students
+
+**Teaching Assistant, Johannes Kepler University Linz**
+- Summer 2025:    _Analysis 2_, discussion rounds
+- Winter 2024/25: _Analysis 1_, discussion rounds
+- Summer 2024:    _Linear Algebra and Analytic Geometry 2_, exercise sessions and discussion rounds
+- Winter 2023/24: _Linear Algebra and Analytic Geometry 1_, exercise sessions and discussion rounds
+- Summer 2022 and 2023:    _Linear Algebra and Analytic Geometry 2_, grader
+- Winter 2021/22 and 2022/23: _Linear Algebra and Analytic Geometry 1_, grader
+- Summer 2020 and 2021:**    _Algebra for Computer Scientists_, grader and leader of discussion rounds
 
 ## Academic Outreach and Services
 
@@ -66,19 +67,18 @@ title: CV
 
 ## Awards
 
-- **2025:** JKU Young Researchers' Award (for my PhD thesis)
-- **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees
-- **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022.
+- **2025:** York-Fields Postdoctoral Fellowship (awarded by York University, CAD&nbsp;6,250)
+- **2025:** JKU Young Researchers' Award (for my PhD thesis, endowed with €&nbsp;600)
+- **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees (endowed with €&nbsp;3,000)
+- **2018-2022:** Merit scholarships of Johannes Kepler University Linz (awarded in recognition of outstanding academic achievement) for the four academic years from 2018/2019 to 2021/2022, endowed with €&nbsp;750–1,500 per year.
 - **2018:** Dr. Hans Riegel Specialist Prize and Erwin Wenzl Recognition Prize for my pre-scientific thesis on Geometric Probability (part of the Austrian Matura exam/highschool graduation)
-- **2017:** Participation in the Middle European Mathematical Olympiad in Vilnius
-- **2015--2018:** Prizes at Regional and National Competitions of the Austrian Mathematical Olympiad: [https://www.math.aau.at/OeMO/Ergebnisse/Person/715](https://www.math.aau.at/OeMO/Ergebnisse/Person/715)
+- **2015--2018:** Prizes at Regional and National Competitions of the Austrian Mathematical Olympiad: [https://www.math.aau.at/OeMO/Ergebnisse/Person/715](https://www.math.aau.at/OeMO/Ergebnisse/Person/715); participation in the Middle European Mathematical Olympiad in Vilnius.
 
-## Other Interests and Achievements
+## Other Achievements
 
 - **2023:** Audit of Art (Austrian Music Schools final exam) in piano
 - **11/2020:** Production of a [stop motion short film](https://www.youtube.com/watch?v=Gn2x4Pj7m1s) for DENEFF (German Industry Initiative for Energy Efficiency)
-- **2019:** Gold medal and award for _Best Jeunesse Film_ at the UNICA world championship of non-commercial independent film for my entry [_The Robbery_](https://www.youtube.com/watch?v=ktUjUAsWYfs).
-- Prizes from other national and international short film competitions are listed on [https://tspeckhofer.jimdofree.com/films/contests-and-prizes/](https://tspeckhofer.jimdofree.com/films/contests-and-prizes/)
+- **2019:** Gold medal and award for _Best Jeunesse Film_ at the [UNICA world championship of non-commercial independent film](https://unica.movie/)
 - **2018:** Winner of the Upper Austrian Latin Olympiad
 
 ## Languages
