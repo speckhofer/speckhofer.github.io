@@ -14,9 +14,13 @@ title: CV
 ## Contact Information
 
 Department of Mathematics and Statistics
+
 York University
+
 4700 Keele Street
+
 Toronto, ON M3J 1P3
+
 Canada
 
 Email: [tspeck@yorku.ca](mailto:tspeck@yorku.ca)
