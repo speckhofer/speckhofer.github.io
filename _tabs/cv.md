@@ -4,20 +4,30 @@ order: 3
 title: CV
 ---
 
+
 ## Personal Information
 
 - **Full name:** Thomas Franz Speckhofer
 - **Born:** 2000
-- **Citizenship:** Austria
-- **E-Mail:** [tspeck@yorku.ca](mailto:tspeck@yorku.ca)
-- **Homepage:** [https://speckhofer.github.io](https://speckhofer.github.io)
+- **Citizenship:** Austrian
+
+## Contact Information
+
+Department of Mathematics and Statistics
+York University
+4700 Keele Street
+Toronto, ON M3J 1P3
+Canada
+
+Email: [tspeck@yorku.ca](mailto:tspeck@yorku.ca)
+Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Research Interests
 
 - Banach space theory: factorization of operators; structure, geometry and local theory of Banach spaces
 - Computer algebra: D-algebraic functions
 
-## Professional Experience
+## Positions
 
 - **07/2025--:** Postdoctoral Visitor, Department of Mathematics and Statistics, York University, Toronto
 - **04/2025--06/2025:** Scientific project member, Institute for Algebra, Johannes Kepler University Linz, FWF project 10.55776/PAT9952223 "Algorithms for D-Algebraic Functions"
