@@ -19,7 +19,7 @@ York University\
 Toronto, ON M3J 1P3\
 Canada
 
-Email: [tspeck@yorku.ca](mailto:tspeck@yorku.ca)
+Email: [tspeck@yorku.ca](mailto:tspeck@yorku.ca)\
 Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Research Interests
