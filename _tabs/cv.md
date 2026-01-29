@@ -35,7 +35,8 @@ Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Education
 
-**11/2022--03/2025:** Ph.D. in Mathematics (with distinction)
+**11/2022--03/2025:** Ph.D. in Mathematics (with distinction),\
+  [_Doctoral graduation under the auspices of the Federal President_](https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis) (_Promotio sub auspiciis Praesidentis rei publicae_, highest possible distinction for a doctoral degree in Austria)
 - Johannes Kepler University Linz
 - Advisor: Richard Lechner, co-advisor: Paul F.X. Müller
 - Thesis: [_Factorization of Operators on Banach Spaces_](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-86476)
