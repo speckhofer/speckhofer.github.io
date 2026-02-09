@@ -24,8 +24,8 @@ Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Research Interests
 
-- Banach space theory: factorization of operators; structure, geometry and local theory of Banach spaces
-- Computer algebra: D-algebraic functions
+- Banach space theory: factorization of operators, operator ideals, structure, geometry and local theory of Banach spaces, restricted invertibility
+- Computer algebra: differentially algebraic functions
 
 ## Positions
 
