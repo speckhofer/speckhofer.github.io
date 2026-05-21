@@ -14,6 +14,7 @@ order: 2
 
 ## Seminar talks
 
+1. **05/2026:** _Bourgain-Rosenthal-Schechtman spaces in rearrangement-invariant and Hardy spaces._ **University of Alberta**, Edmonton, Canada.
 1. **11/2024:** _Dimension dependence of factorization problems._ **Texas A&M University**, College Station, USA (online).
 1. **03/2024:** _Factorization in Haar system Hardy spaces._ **Vienna University of Technology**, Vienna, Austria.
 1. **06/2023:** _Factorization in Haar system Hardy spaces._ **Mathematical Institute of the Polish Academy of Sciences (IMPAN)**, Warsaw, Poland.
