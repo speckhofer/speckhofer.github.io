@@ -76,6 +76,10 @@ Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 - **03/2023:** I held a workshop on sequences, recurrences and series for highschool students at "JKU Young Mathematics Scientists".
 - **2018--:** I am involved in the preparation of highschool students for mathematical olympiads by contributing to the training course which I used to attend myself as a student.
 
+## Research Grants
+
+- Erwin Schrödinger Fellowship, Austrian Science Fund (FWF), 2026–2029, [https://www.fwf.ac.at/en/research-radar/10.55776/J5020](Structures in Banach spaces and their operator algebras), Grant DOI 10.55776/J5020 (€ 234,180).
+
 ## Awards
 
 - **2025:** York-Fields Postdoctoral Fellowship (awarded by York University, CAD 6,250)
