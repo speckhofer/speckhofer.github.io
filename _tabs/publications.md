@@ -7,7 +7,7 @@ order: 1
 
 ## Refereed Publications
 
-1. [**Factorization in independent sums of Haar system Hardy spaces**](https://arxiv.org/pdf/2507.18600) (joint with Konstantinos Konstantos). _Ill. J. Math._, to appear. See also [arXiv:2507.18600](https://arxiv.org/abs/2507.18600).
+1. [**Factorization in independent sums of Haar system Hardy spaces**](https://arxiv.org/pdf/2507.18600) (joint with Konstantinos Konstantos). _Ill. J. Math._ **70** (2026), no. 2, 277-312. See also [arXiv:2507.18600](https://arxiv.org/abs/2507.18600), [doi](https://doi.org/10.1215/00192082-12469530).
 
 1. [**Factorization in Haar system Hardy spaces**](/assets/pdf/publications/2025_Lechner-Speckhofer_Factorization-in-Haar-system-Hardy-spaces.pdf) (joint with Richard Lechner). _Ark. Mat._ **63** (2025), no. 1, 149-205. See also [arXiv:2310.10572](https://arxiv.org/abs/2310.10572), [doi](https://doi.org/10.4310/arkiv.2025.v63.n1.a6). Selected as [**Editor’s Choice 2025**](https://www.mittag-leffler.se/editors-choice/).
 
