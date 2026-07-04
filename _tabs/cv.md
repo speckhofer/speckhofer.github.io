@@ -78,10 +78,11 @@ Homepage: [https://speckhofer.github.io](https://speckhofer.github.io)
 
 ## Research Grants
 
-- Erwin Schrödinger Fellowship, Austrian Science Fund (FWF), 2026–2029, [https://www.fwf.ac.at/en/research-radar/10.55776/J5020](Structures in Banach spaces and their operator algebras), Grant DOI 10.55776/J5020 (€ 234,180).
+- Erwin Schrödinger Fellowship, Austrian Science Fund (FWF), 2026–2029, [Structures in Banach spaces and their operator algebras](https://www.fwf.ac.at/en/research-radar/10.55776/J5020), Grant DOI 10.55776/J5020 (€ 234,180).
 
 ## Awards
 
+- **2026:** Excellence Scholarship by the Austrian Federal Ministry of Education, Science and Research (awarded for [doctoral graduation under the auspices of the Federal President](https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis), € 9,000)
 - **2025:** York-Fields Postdoctoral Fellowship (awarded by York University, CAD 6,250)
 - **2025:** JKU Young Researchers' Award (for my PhD thesis, endowed with € 600)
 - **2023:** Recognition Award (Würdigungspreis) of the Austrian Federal Ministry of Education, Science and Research for the best Diploma/Master's degrees (endowed with € 3,000)
