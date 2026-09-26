@@ -5,7 +5,7 @@ order: 1
 
 ## Preprints
 
-1. [**Subspaces of \(L^1\) spanned by the even and odd levels of the Haar system**](https://arxiv.org/pdf/2609.16735). [arXiv:2609.16735](https://arxiv.org/abs/2609.16735), 2026.
+1. <a href="https://arxiv.org/pdf/2609.16735"><strong>Subspaces of \(L^1\) spanned by the even and odd levels of the Haar system</strong></a>. [arXiv:2609.16735](https://arxiv.org/abs/2609.16735), 2026.
 
 ## Refereed Publications
 
