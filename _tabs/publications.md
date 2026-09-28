@@ -6,15 +6,15 @@ order: 1
 ## Preprints
 
 
-1. Stephen Dilworth, Denka Kutzarova, Mikhail Ostrovskii, and Thomas Speckhofer. [**Quotients of $L^1$ by subsequences of the Haar system have cotype 2**](https://arxiv.org/pdf/2609.31542). _Preprint: [arXiv:2609.31542](https://arxiv.org/abs/2609.31542)_, 2026.
-1. Thomas Speckhofer. [**Subspaces of $L^1$ spanned by the even and odd levels of the Haar system**](https://arxiv.org/pdf/2609.16735). _Preprint: [arXiv:2609.16735](https://arxiv.org/abs/2609.16735)_, 2026.
+1. [**Quotients of $L^1$ by subsequences of the Haar system have cotype 2**](https://arxiv.org/pdf/2609.31542) (joint with Stephen Dilworth, Denka Kutzarova, and Mikhail Ostrovskii). _Preprint: [arXiv:2609.31542](https://arxiv.org/abs/2609.31542)_, 2026.
+1. [**Subspaces of $L^1$ spanned by the even and odd levels of the Haar system**](https://arxiv.org/pdf/2609.16735). _Preprint: [arXiv:2609.16735](https://arxiv.org/abs/2609.16735)_, 2026.
 
 ## Refereed Publications
 
-1. Konstantinos Konstantos and Thomas Speckhofer. [**Factorization in independent sums of Haar system Hardy spaces**](https://arxiv.org/pdf/2507.18600). _Ill. J. Math._ **70** (2026), no. 2, 277-312. See also [arXiv:2507.18600](https://arxiv.org/abs/2507.18600), [doi](https://doi.org/10.1215/00192082-12469530).
+1. [**Factorization in independent sums of Haar system Hardy spaces**](https://arxiv.org/pdf/2507.18600) (joint with Konstantinos Konstantos). _Ill. J. Math._ **70** (2026), no. 2, 277-312. See also [arXiv:2507.18600](https://arxiv.org/abs/2507.18600), [doi](https://doi.org/10.1215/00192082-12469530).
 
-1. Richard Lechner and Thomas Speckhofer. [**Factorization in Haar system Hardy spaces**](/assets/pdf/publications/2025_Lechner-Speckhofer_Factorization-in-Haar-system-Hardy-spaces.pdf). _Ark. Mat._ **63** (2025), no. 1, 149-205. See also [arXiv:2310.10572](https://arxiv.org/abs/2310.10572), [doi](https://doi.org/10.4310/arkiv.2025.v63.n1.a6). Selected as [**Editor’s Choice 2025**](https://www.mittag-leffler.se/editors-choice/).
+1. [**Factorization in Haar system Hardy spaces**](/assets/pdf/publications/2025_Lechner-Speckhofer_Factorization-in-Haar-system-Hardy-spaces.pdf) (joint with Richard Lechner). _Ark. Mat._ **63** (2025), no. 1, 149-205. See also [arXiv:2310.10572](https://arxiv.org/abs/2310.10572), [doi](https://doi.org/10.4310/arkiv.2025.v63.n1.a6). Selected as [**Editor’s Choice 2025**](https://www.mittag-leffler.se/editors-choice/).
 
-1. Thomas Speckhofer. [**Dimension dependence of factorization problems: Haar system Hardy spaces.**](/assets/pdf/publications/2025_Speckhofer_Dimension-dependence-of-factorization-problems-Haar-system-Hardy-spaces.pdf) _Studia Math._ **281** (2025), no. 2, 171-198. See also [arXiv:2407.05187](https://arxiv.org/abs/2407.05187), [doi](https://doi.org/10.4064/sm240706-24-11).
+1. [**Dimension dependence of factorization problems: Haar system Hardy spaces.**](/assets/pdf/publications/2025_Speckhofer_Dimension-dependence-of-factorization-problems-Haar-system-Hardy-spaces.pdf) _Studia Math._ **281** (2025), no. 2, 171-198. See also [arXiv:2407.05187](https://arxiv.org/abs/2407.05187), [doi](https://doi.org/10.4064/sm240706-24-11).
 
-1. Thomas Speckhofer. [**Problem 12163.**](/assets/pdf/problem-12163.pdf) _Amer. Math. Monthly_ **127** (2020), no. 2, 179. Suggested solution: [pdf](/assets/pdf/solution-12163.pdf).
+1. [**Problem 12163.**](/assets/pdf/problem-12163.pdf) _Amer. Math. Monthly_ **127** (2020), no. 2, 179. Suggested solution: [pdf](/assets/pdf/solution-12163.pdf).
