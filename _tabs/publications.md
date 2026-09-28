@@ -5,6 +5,8 @@ order: 1
 
 ## Preprints
 
+
+1. [**Quotients of $L^1$ by subsequences of the Haar system have cotype 2**](https://arxiv.org/pdf/2609.31542) (joint with Stephen Dilworth, Denka Kutzarova, and Mikhail Ostrovskii). _Preprint: [arXiv:2609.31542](https://arxiv.org/abs/2609.31542)_, 2026.
 1. [**Subspaces of $L^1$ spanned by the even and odd levels of the Haar system**](https://arxiv.org/pdf/2609.16735). _Preprint: [arXiv:2609.16735](https://arxiv.org/abs/2609.16735)_, 2026.
 
 ## Refereed Publications
