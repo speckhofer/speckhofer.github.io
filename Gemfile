@@ -26,4 +26,7 @@ gem "webrick"# , "~> 1.8"
 gem "json"#
 gem "public_suffix"#, "~> 6.0"
 
+# Jekyll 4.3 requires CSV, which is no longer a default gem in Ruby 3.4.
+gem "csv"
+
 gem "jekyll-paginate", "~> 1.1"
