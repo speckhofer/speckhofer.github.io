@@ -5,9 +5,6 @@ order: 2
 
 ## Contributed talks at conferences
 
-1. **08/2025:** _Bourgain-Rosenthal-Schechtman spaces in rearrangement-invariant and Hardy spaces._ **Brazilian Workshop on Banach Spaces**, Praia das Toninhas, Ubatuba, Brazil.
-1. **07/2025:** _Bourgain-Rosenthal-Schechtman spaces in rearrangement-invariant and Hardy spaces._ **Summer School: Topics in Banach Space Theory**, Centro Internacional de Encuentros Matemáticos (CIEM), Castro Urdiales, Spain.
-1. **06/2025:** _Bourgain-Rosenthal-Schechtman spaces in rearrangement-invariant and Hardy spaces._ **Topological Methods in Functional Analysis and Measure Theory**, Adam Mickiewicz University, Poznań, Poland.
 1. **07/2025:** _Independent sums of Haar system Hardy spaces._ **Workshop in Analysis and Probability Seminar Series**, Texas A&M University, College Station, USA. [slides](https://speckhofer.github.io/assets/pdf/2025_independent-sums-of-hshs_college-station.pdf).
 1. **03/2025:** _Dimension dependence of factorization problems._ **Structures in Banach Spaces**, Erwin Schrödinger Institute, Vienna, Austria. [slides](https://speckhofer.github.io/assets/pdf/2025_dimension-dependence-of-factorization-problems_vienna.pdf), [video](https://www.youtube.com/watch?v=on6QlI1M7OM).
 1. **09/2024:** _Factorization in Haar system Hardy spaces._ **Analysis Seminar Innsbruck 2024**, University of Innsbruck, Innsbruck, Austria.
